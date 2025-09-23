@@ -9,7 +9,7 @@ click copy
 
 go to your bookmarks tab and create a page
 
-add the code in
+paste the code inside the link section
 
 go out, 
 
