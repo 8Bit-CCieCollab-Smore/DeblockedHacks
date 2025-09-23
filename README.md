@@ -5,21 +5,26 @@
 
 QUIZALIZE HACKS ------>>>
 
-use if you want to be the top laeder bord of quizalize
+#HOW TO USE
 
-How to Use
+#1 - Go to Quizalize.js
 
-Go to the Quizalize.js file 
+#2 - Copy the Code
 
-click copy
+#3 Go to your Bookmarks bar
 
-go to your bookmarks tab and create a page
+#4 Create a New Page
 
-paste the code inside the link section
+#5 Edit it, and add the Code inside the link section
 
-go out, 
+#6 go to quizalize
 
-go to the website of the quiz and boom!
+#7 Click it
+
+#8 put your ENTIRE URL LINK inside the box where you need to put it
+
+#9 Enjoy
+
 
 
 
