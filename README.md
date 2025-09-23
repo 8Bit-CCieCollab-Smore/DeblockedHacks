@@ -1,5 +1,5 @@
 # Quizalize-Deblocked
-I am not responsible for any events caused by using this code
+use if you want to be the top laeder bord of quizalize
 
 How to Use
 
