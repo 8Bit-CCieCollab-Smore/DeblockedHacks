@@ -27,8 +27,25 @@ QUIZALIZE HACKS ------>>>
 
 
 
+BLOOKET V5 HACKS ------->
 
-BETTER KAHOOT HACKS ------->
+#HOW TO USE
+
+#1 Go to BlooketV5.gui.js
+
+#2 Copy the Code
+
+#3 Go to Blooket
+
+#4 Right Click anywhere, and Click Inspect Element
+
+#5 Go to Console
+
+#6 Paste the Code (if it says you cant paste it, just type "allow pasting")
+
+#7 Enjoy
+
+
 
 
 CURIPOD HACKS -------->
